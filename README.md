@@ -17,7 +17,7 @@ Esta aplicação é um sistema de estoque, para armazenar produtos e realizar o 
 
 O front-end foi desenvolvido utilizando React, Next.js, JavaScript, TypeScript e Tailwind CSS. Já o back-end foi desenvolvido utilizando Node.js, Nest.js, Prisma ORM e PostgreSQL.
 
-Esta aplicação foi construída para facilitar e possibilitar o armazenamento em estoque de protudos de qualquer estabelicimento, seja loja de roupas, material de construção, etc. 
+Esta aplicação foi construída para facilitar e possibilitar o armazenamento em estoque de produtos de qualquer estabelecimento, seja loja de roupas, material de construção, etc.
 
 # 💻 Front-End
 
