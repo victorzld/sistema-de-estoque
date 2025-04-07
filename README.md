@@ -9,7 +9,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-https://github.com/user-attachments/assets/fbc534ed-d5ba-4e5c-8d34-b957e0eaa960
+[https://github.com/user-attachments/assets/fbc534ed-d5ba-4e5c-8d34-b957e0eaa960](https://github.com/user-attachments/assets/2c79dc1d-2182-429b-9410-062675d44af5)
 
 Esta aplicação é um sistema de estoque, para armazenar produtos e realizar o controle dos depósitos. É necessário criar um login e senha para acessar o sistema e basta começar a cadastrar os seus produtos.
 
